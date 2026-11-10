@@ -31,3 +31,5 @@ below(rectangle(60, 30, "solid", "pink"), triangle(70, "solid", "brown"))
 
 regular-polygon(80,8,"solid","red")
 
+red-circ = circle(30, "solid", "red")
+red-circ
